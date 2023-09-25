@@ -1,0 +1,24 @@
+PATRICK SUIJK
+
+core.h - contains enums for scanner
+tree.h - contains struct defs for parse tree
+scanner.c - given scanner file
+scanner.h - header file for scanner.c
+parser.c - given parser file
+parser.h - header file for parser.c
+semantic.c - given semantic check file
+semantic.h - header file for semantic.c
+printer.c - given printer file
+printer.h - header file for printer.c
+memory.c - contains functions for dealing with memory allocationa nd use in execute functions
+memory.h - header file for memory.c
+execute.c - contains functions for interpreter to execute program
+execute.h - header file for execute.c
+main.c - the main program
+**the Correct folder and tester.sh are included so that I can download my submission and make sure it works
+
+
+Comments: I worked off of the professors Project 4 since our Project 4s were not graded yet, therefore I did not
+provide comments for any of the code that he wrote, only for the code I added.
+
+I tested the interpreter by running each provided test case individually. I do not know of any remaining bugs
