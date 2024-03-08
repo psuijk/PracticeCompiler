@@ -17,8 +17,4 @@ execute.h - header file for execute.c
 main.c - the main program
 **the Correct folder and tester.sh are included so that I can download my submission and make sure it works
 
-
-Comments: I worked off of the professors Project 4 since our Project 4s were not graded yet, therefore I did not
-provide comments for any of the code that he wrote, only for the code I added.
-
 I tested the interpreter by running each provided test case individually. I do not know of any remaining bugs
